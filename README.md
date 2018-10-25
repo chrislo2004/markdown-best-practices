@@ -1,5 +1,6 @@
 # markdown-best-practices
 ref: https://docs.cloudposse.com/development/markdown/best-practices/
+(To myself, reminder: copy pasted from this link, I just wanted a copy for notes reference in-case i forget)
 
 Markdown Best Practices
 Using Markdown is essential for clear communication on mediums such as GitHub, Slack or just plain text. Here are some of our recommendations on when to use certain conventions.
